@@ -5,7 +5,7 @@
 
 - I'm S.M Shamim, and I like Java!
 
-- I’m currently working with Web Applications, API, Web Scrapping, DataBase
+- I’m currently working with Web Applications, Spring-Boot API, Web Scrapping, DataBase
 
 - I like to build dynamic Android Applications
 
