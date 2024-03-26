@@ -13,4 +13,4 @@
 
 - Fun fact **I Love Logic**
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smwithgithub&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smwithgithub&layout=compact)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smwithgithub&show_icons=true&theme=radical)|    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smwithgithub&layout=compact)|
