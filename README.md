@@ -13,4 +13,6 @@
 - Fun fact **I Love Logic**
 
 
-[![GitHub](https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/03f9c8f7-173c-402b-a502-206179dd42a5)](https://github.com/yourusername)
+<a href="https://github.com/smwithgithub">
+    <img src="https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/03f9c8f7-173c-402b-a502-206179dd42a5" alt="GitHub" width="40" height="40">
+</a>
