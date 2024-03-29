@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋 😊</h1>
-<img align="right" alt="Coding" width="400" height="220" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smwithgithub&label=Profile%20views&color=0e75b6&style=flat" alt="smwithgithub" /> </p>
 
 - I'm S.M Shamim, and I like Java!
 
@@ -11,4 +12,4 @@
 
 - Fun fact **I Love Logic**
 
-[![GitHub](images/github-icon.png)](https://github.com/smwithgithub)
+(![github-mark-white](https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/03f9c8f7-173c-402b-a502-206179dd42a5))](https://github.com/smwithgithub)
