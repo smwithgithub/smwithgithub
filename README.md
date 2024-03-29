@@ -12,4 +12,4 @@
 
 - Fun fact **I Love Logic**
 
-(![github-mark-white](https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/03f9c8f7-173c-402b-a502-206179dd42a5))](https://github.com/smwithgithub)
+(![github-mark-white](https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/03f9c8f7-173c-402b-a502-206179dd42a5)](https://github.com/smwithgithub)
