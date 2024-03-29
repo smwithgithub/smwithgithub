@@ -12,7 +12,7 @@
 
 - Fun fact **I Love Logic**
 
-##Contact Me =>
+## Contact Me =>
 
 <!-- HTML for a centered image with specific dimensions -->
 <div align="center">
