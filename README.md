@@ -12,19 +12,19 @@
 
 - Fun fact **I Love Logic**
 
-# Contact Me:
+## Contact Me:
 
 <!-- HTML for a centered image with specific dimensions -->
 <div align="center">
     <a href="https://github.com/smwithgithub">
         <img src="https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/03f9c8f7-173c-402b-a502-206179dd42a5" alt="GitHub" width="40" height="40">
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ami-smshamim">
         <img src="https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/51d06704-dc14-4fac-bedb-2fd736e09574" alt="LinkedIn" width="40" height="40">
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="#">
         <img src="https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/401e6e4c-7e6f-4de0-b55e-1d4cc0a23ed5" alt="Insta" width="40" height="40">
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="#">
         <img src="https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/bf4f6cf5-40b0-479f-a635-7cbf72bc2797" alt="Insta" width="40" height="40">
     </a>
