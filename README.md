@@ -22,10 +22,5 @@
     <a href="https://www.linkedin.com/in/ami-smshamim">
         <img src="https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/51d06704-dc14-4fac-bedb-2fd736e09574" alt="LinkedIn" width="40" height="40">
     </a>&nbsp;&nbsp;
-    <a href="#">
-        <img src="https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/401e6e4c-7e6f-4de0-b55e-1d4cc0a23ed5" alt="Insta" width="40" height="40">
-    </a>&nbsp;&nbsp;
-    <a href="#">
-        <img src="https://github.com/smwithgithub/SpringBoot-API-CRUD/assets/126904136/bf4f6cf5-40b0-479f-a635-7cbf72bc2797" alt="Insta" width="40" height="40">
-    </a>
+    
 </div>
