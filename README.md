@@ -4,13 +4,13 @@
 
 - I'm S.M Shamim, and I like Java!
 
-- I’m currently working on Web Applications with React js, Spring boot, MS- SQL Database
+- I’m currently working on Web Applications with React js (frontend), Spring boot (API), MS- SQL Server (Database)
 
-- I like to build dynamic Web and Android Applications
+- I love creating dynamic and feature rich applications
 
-- How to reach me **https://linkedin.com/in/smshamimalex**
+- How to reach me **https://www.linkedin.com/in/ami-smshamim**
 
-- Fun fact **I Love Logic**
+- Fun fact **I Love Logics**
 
 ## Contact Me:-
 
