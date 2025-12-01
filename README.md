@@ -4,7 +4,7 @@
 
 - I'm S.M Shamim, and I like Java!
 
-- I’m currently working on Web Applications with React js (frontend), Spring boot (API), MS- SQL Server (Database)
+- I’m currently working on Web Applications with React js (frontend), FastAPI (API), Supabase (Database)
 
 - I love creating dynamic and feature rich applications
 
